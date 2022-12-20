@@ -138,4 +138,16 @@ data modify entity @e[type=minecraft:sheep,tag=bad-165,tag=bad-sheep,limit=1] Co
 data modify entity @e[type=minecraft:sheep,tag=bad-166,tag=bad-sheep,limit=1] Color set value 7
 data modify entity @e[type=minecraft:sheep,tag=bad-179,tag=bad-sheep,limit=1] Color set value 7
 data modify entity @e[type=minecraft:sheep,tag=bad-180,tag=bad-sheep,limit=1] Color set value 7
-
+data modify entity @e[type=minecraft:sheep,tag=bad-261,tag=bad-sheep,limit=1] Color set value 0
+data modify entity @e[type=minecraft:sheep,tag=bad-298,tag=bad-sheep,limit=1] Color set value 8
+data modify entity @e[type=minecraft:sheep,tag=bad-299,tag=bad-sheep,limit=1] Color set value 0
+data modify entity @e[type=minecraft:sheep,tag=bad-300,tag=bad-sheep,limit=1] Color set value 0
+data modify entity @e[type=minecraft:sheep,tag=bad-336,tag=bad-sheep,limit=1] Color set value 7
+data modify entity @e[type=minecraft:sheep,tag=bad-337,tag=bad-sheep,limit=1] Color set value 0
+data modify entity @e[type=minecraft:sheep,tag=bad-338,tag=bad-sheep,limit=1] Color set value 0
+data modify entity @e[type=minecraft:sheep,tag=bad-339,tag=bad-sheep,limit=1] Color set value 0
+data modify entity @e[type=minecraft:sheep,tag=bad-376,tag=bad-sheep,limit=1] Color set value 8
+data modify entity @e[type=minecraft:sheep,tag=bad-413,tag=bad-sheep,limit=1] Color set value 8
+data modify entity @e[type=minecraft:sheep,tag=bad-414,tag=bad-sheep,limit=1] Color set value 8
+data modify entity @e[type=minecraft:sheep,tag=bad-452,tag=bad-sheep,limit=1] Color set value 8
+data modify entity @e[type=minecraft:sheep,tag=bad-453,tag=bad-sheep,limit=1] Color set value 7

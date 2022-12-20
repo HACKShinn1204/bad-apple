@@ -1,0 +1,1 @@
+execute at @e[type=armor_stand,tag=bad-amsd] run fill ~ ~1 ~-1 ~-48 ~1 ~-36 air
